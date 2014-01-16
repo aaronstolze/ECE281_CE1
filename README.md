@@ -18,7 +18,7 @@ Aaron Stolze's circuit
 
 # Testbench Waveform
 
-![alt text](https://github.com/aaronstolze/ECE281_CE1/blob/master/CE1Simulation.PNG "Testbench Waveform")
+![alt text](https://raw.github.com/aaronstolze/ECE281_CE1/master/CE1Simulation.PNG "Testbench Waveform")
 
 # Analysis
 
